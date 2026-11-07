@@ -1,0 +1,13 @@
+{
+  "name": "moggochat",
+  "version": "4.0.0",
+  "main": "moggo.js",
+  "scripts": {
+    "start": "node moggo.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "bcryptjs": "^2.4.3"
+  }
+}
